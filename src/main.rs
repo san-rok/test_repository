@@ -2,5 +2,5 @@ fn main() {
     println!("Hello, world!");
     println!("Hello, Frici!");
     println!("Hello, Sanyi!");
-    println!("Hello!!");
+    println!("Hello hello hello!");
 }
