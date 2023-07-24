@@ -3,4 +3,5 @@ fn main() {
     println!("Hello, Frici!");
     println!("Hello, Sanyi!");
     println!("Hello hello hello!");
+    println!("ADD: TEST");
 }
